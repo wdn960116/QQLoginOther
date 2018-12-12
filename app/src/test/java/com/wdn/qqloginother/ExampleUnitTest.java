@@ -1,4 +1,4 @@
-package com.wdn.qqloginpost;
+package com.wdn.qqloginother;
 
 import org.junit.Test;
 

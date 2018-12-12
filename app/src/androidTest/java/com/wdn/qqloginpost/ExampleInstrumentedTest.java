@@ -1,4 +1,4 @@
-package com.wdn.qqloginweb;
+package com.wdn.qqloginpost;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
